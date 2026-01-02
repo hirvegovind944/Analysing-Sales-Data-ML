@@ -64,7 +64,6 @@ Region-wise revenue performance
 Category-wise contribution
 
 
-
 # 📊 Data Visualization
 
 Line chart for monthly sales trends
@@ -94,8 +93,6 @@ Improve regional sales planning
 Enhance revenue forecasting
 
 # Future Enhancements
-
-Dashboard using Power BI / Tableau
 
 Predictive sales forecasting
 
